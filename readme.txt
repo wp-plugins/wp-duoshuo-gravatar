@@ -6,7 +6,6 @@ Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Build: 1156721
 
 WP-DuoShuo-Gravatar
 
@@ -16,6 +15,7 @@ WP-DuoShuo-Gravatar
 
 * In China, the reason of Gravatar avatar can not be accessed is not the Gravatar site server unstable, it is the firewall problem, so the solution is to use the DuoShuo.com Gravatar avatar URL: "http://gravatar.duoshuo.com".
 * 在国内(中国大陆), Gravatar 头像无法稳定访问的原因不是因为 Gravatar 网站服务器不稳定，而是国内防火墙的问题，解决的办法是替换成 "http://gravatar.duoshuo.com" 。
+* SVN Build Version: 1156728
 
 == Installation ==
 
