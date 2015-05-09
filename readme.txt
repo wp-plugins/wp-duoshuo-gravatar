@@ -1,5 +1,5 @@
 ﻿=== WP-DuoShuo-Gravatar ===
-Contributors: wokss@163.com
+Contributors: gz_shines@msn.com
 Donate link: http://www.yunfast.com/blog/
 Tags: duoshuo, gravatar, gravatar cache, https, gfw
 Requires at least: 3.0
@@ -25,7 +25,7 @@ WP-DuoShuo-Gravatar
 
 == Frequently Asked Questions ==
 
-插件失效请先确认是否有启用其他同类插件或者代码导致互相冲突。 邮箱：wokss@163.com
+插件失效请先确认是否有启用其他同类插件或者代码导致互相冲突。 邮箱：gz_shines@msn.com
 
 == Screenshots ==
 
