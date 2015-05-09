@@ -1,5 +1,5 @@
 ﻿=== WP-DuoShuo-Gravatar ===
-Contributors: shines77
+Contributors: wokss@163.com
 Donate link: http://www.yunfast.com/blog/
 Tags: duoshuo, gravatar, gravatar cache, https, gfw
 Requires at least: 3.0
@@ -29,7 +29,7 @@ WP-DuoShuo-Gravatar
 
 == Screenshots ==
 
-1. Enable DuoShuo Gravatar URL. 启用DuoShuo头像URL。
+1. Enable DuoShuo Gravatar URL. 启用 DuoShuo 头像URL。
 
 == Changelog ==
 
