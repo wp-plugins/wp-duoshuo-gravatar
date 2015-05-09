@@ -1,5 +1,5 @@
 ﻿=== WP-DuoShuo-Gravatar ===
-Contributors: gz_shines@msn.com
+Contributors: wokss@163.com
 Donate link: http://www.yunfast.com/blog/
 Tags: duoshuo, gravatar, gravatar cache, https, gfw
 Requires at least: 3.0
@@ -9,6 +9,10 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 WP-DuoShuo-Gravatar
+
+Use to DuoShuo Gravatar avatar image URL (www.duoshuo.com) to solve the WordPress Gravatar image problems inaccessible.
+
+使用多说 (www.duoshuo.com) Gravatar头像镜像URL解决 WordPress 头像无法访问的问题。
 
 == Description ==
 
@@ -25,7 +29,7 @@ WP-DuoShuo-Gravatar
 
 == Frequently Asked Questions ==
 
-插件失效请先确认是否有启用其他同类插件或者代码导致互相冲突。 邮箱：gz_shines@msn.com
+插件失效请先确认是否有启用其他同类插件或者代码导致互相冲突。 邮箱：wokss@163.com
 
 == Screenshots ==
 
