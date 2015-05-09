@@ -1,5 +1,5 @@
 ﻿=== WP-DuoShuo-Gravatar ===
-Contributors: 610216
+Contributors: 1156721
 Tags: gravatar, gravatar cache, duoshuo, duoshuo.com
 Requires at least: 3.0
 Tested up to: 4.2
