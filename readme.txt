@@ -8,8 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Use to DuoShuo Gravatar avatar image URL (www.duoshuo.com) to solve the WordPress Gravatar image problems inaccessible.
-使用多说 (www.duoshuo.com) Gravatar头像镜像URL解决 WordPress 头像无法访问的问题。
+使用多说 (www.duoshuo.com) Gravatar头像镜像URL解决 WordPress 头像无法访问的问题。Use DuoShuo avatar image URL (www.duoshuo.com) to solve the WordPress Gravatar image problems inaccessible.
 
 == Description ==
 
