@@ -1,6 +1,7 @@
 ﻿=== WP-DuoShuo-Gravatar ===
 Contributors: shines77
-Tags: gravatar, gravatar cache, duoshuo, duoshuo.com
+Donate link: http://www.yunfast.com/blog/
+Tags: duoshuo, gravatar, gravatar cache, https, gfw
 Requires at least: 3.0
 Tested up to: 4.2
 Stable tag: 1.0
@@ -21,6 +22,10 @@ WP-DuoShuo-Gravatar
 
 1. Upload `wp-duoshuo-gravatar` folder to the `/wp-content/plugins/` directory. 上传文件夹“wp-duoshuo-gravatar”到“/wp-content/plugins/”目录。
 2. Activate the plugin through the 'Plugins' menu in WordPress. 在仪表盘插件菜单中激活该插件。
+
+== Frequently Asked Questions ==
+
+插件失效请先确认是否有启用其他同类插件或者代码导致互相冲突。 邮箱：wokss@163.com
 
 == Screenshots ==
 
