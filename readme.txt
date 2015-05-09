@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-使用多说 (www.duoshuo.com) Gravatar头像镜像URL (http://gravatar.duoshuo.com) 解决 WordPress 头像无法访问的问题。
+使用多说Gravatar头像镜像URL(http://gravatar.duoshuo.com)解决WordPress头像无法访问的问题。
 
 == Description ==
 
